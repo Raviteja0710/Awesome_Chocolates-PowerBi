@@ -87,7 +87,7 @@ The dashboard is designed for **interactive business intelligence reporting** us
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Awesome-Chocolate-Dashboard.git
+https://github.com/Raviteja0710/Awesome_Chocolates-PowerBi
 ```
 
 ## 2️⃣ Open Power BI File
@@ -168,8 +168,8 @@ Feel free to fork the repository and submit pull requests.
 
 ## 👨‍💻 Ravi Teja
 
-- GitHub: add-your-github-link
-- LinkedIn: add-your-linkedin-link
+- GitHub: https://github.com/Raviteja0710
+- LinkedIn: https://www.linkedin.com/in/ch-ravi-teja-b00139367/
 
 ---
 
